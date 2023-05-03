@@ -8,3 +8,6 @@
 
 **yt_copyright_scraper.py**
 - Scrapes copyright strike data from YouTube videos and exports to CSV
+
+**cargurus_crawler.ipynb**
+- Scrapes Car Gurus listings and unifies data for analysis
